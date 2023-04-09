@@ -1,0 +1,15 @@
+name: data
+description: Data Service.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.18.2 <3.0.0'
+
+# Add regular dependencies here.
+dependencies:
+  conduit: 3.2.10
+  jaguar_jwt: 3.0.0
+
+dev_dependencies:
+  lints: 2.0.0
